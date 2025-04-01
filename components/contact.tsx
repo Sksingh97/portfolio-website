@@ -88,20 +88,6 @@ export default function Contact() {
                 </div>
               </div>
 
-              <div className="flex items-center">
-                <div className="p-3 bg-primary/10 rounded-full mr-4">
-                  <Phone className="h-5 w-5 text-primary" />
-                </div>
-                <div>
-                  <p className="text-sm text-muted-foreground">Phone</p>
-                  <a
-                    href="tel:+919717074214"
-                    className="hover:text-primary transition-colors duration-300"
-                    onMouseEnter={playClick}
-                  >
-                    +91-9717074214
-                  </a>
-                </div>
               </div>
 
               <div className="flex items-center">
