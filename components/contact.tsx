@@ -88,7 +88,6 @@ export default function Contact() {
                 </div>
               </div>
 
-              </div>
 
               <div className="flex items-center">
                 <div className="p-3 bg-primary/10 rounded-full mr-4">
